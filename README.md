@@ -1,5 +1,7 @@
 # Python FastAPI
 
+Following this tutorial: https://fastapi.tiangolo.com/tutorial/.
+
 ## Requirements
 - Python 3.X
 - pip 20.X
